@@ -47,3 +47,7 @@ This project is an extension of the AirBnB Clone series, focusing on web dynamic
 
 ## Contributing
 Contributions are welcome! Please follow the project structure and coding standards.
+
+## Acknowledgement
+
+All thanks to Alx community
