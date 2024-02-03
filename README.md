@@ -1,4 +1,4 @@
-# AirBnB Clone version 4
+# AirBnB Clone Version 4
 
 ## Overview
 This project is an extension of the AirBnB Clone series, focusing on web dynamic features. It utilizes Flask for the backend and JQuery for dynamic front-end interactions.
